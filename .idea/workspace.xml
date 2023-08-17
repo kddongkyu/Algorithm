@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa10646-b92e-471c-9e63-5c1085abab4a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Boj21736.java" afterDir="false" />
+    <list default="true" id="caa10646-b92e-471c-9e63-5c1085abab4a" name="변경" comment="21736 question solved">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Boj1107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kddongkyu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2a88fa73-c29b-4b97-af7f-01f6b91459db" />
+        <option name="url" value="https://github.com/kddongkyu/Algorithm.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,7 +77,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Boj21736">
+  <component name="RunManager" selected="애플리케이션.Boj1107">
     <configuration name="Boj10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Boj10810" />
       <module name="baekjoon" />
@@ -84,9 +98,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Boj16236" />
+    <configuration name="Boj1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Boj1107" />
       <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Boj1107" />
         <item itemvalue="애플리케이션.Boj21736" />
         <item itemvalue="애플리케이션.Boj10813" />
         <item itemvalue="애플리케이션.Boj10810" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.Boj16236" />
       </list>
     </recent_temporary>
   </component>
@@ -172,8 +192,18 @@
       <workItem from="1687221462312" duration="825000" />
       <workItem from="1692000438145" duration="1900000" />
       <workItem from="1692090599145" duration="775000" />
-      <workItem from="1692192853142" duration="2638000" />
+      <workItem from="1692192853142" duration="2763000" />
+      <workItem from="1692262456381" duration="2101000" />
     </task>
+    <task id="LOCAL-00001" summary="21736 question solved">
+      <option name="closed" value="true" />
+      <created>1692195594609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692195594609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +219,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21736 question solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="21736 question solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
